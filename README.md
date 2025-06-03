@@ -29,6 +29,8 @@ simple_contact_book.py – Store names and numbers (list-only version)
 
 currency_converter.py – Convert amount from one currency to another
 
+fibonacci sequence.py - prints the fibonacci series
+
 bmi_calculator.py – Calculate Body Mass Index (BMI)
 
 ✅ Day 3: Intermediate Python Logic
